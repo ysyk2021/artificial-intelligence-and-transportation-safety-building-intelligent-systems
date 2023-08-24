@@ -1,5 +1,3 @@
-Legal Framework
-===========================================================================================
 
 As artificial intelligence (AI) becomes more integrated into transportation safety systems, it is essential to consider the legal implications of these technologies. From liability issues related to autonomous vehicles to questions of data privacy and security, there are a number of important legal considerations that must be addressed in order to ensure that AI in transportation safety is used responsibly and ethically.
 

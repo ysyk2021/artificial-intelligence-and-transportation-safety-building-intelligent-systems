@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the basics of artificial intelligence (AI), focusing specifically on machine learning techniques and how they are used to build intelligent systems for transportation safety.
 

@@ -1,5 +1,3 @@
-Components of Transportation Safety
-===============================================================================
 
 Transportation safety is a critical concern for governments, organizations, and individuals around the world. In this chapter, we will explore the main components of transportation safety, including the various factors that contribute to accidents and injuries on the road.
 

@@ -1,5 +1,3 @@
-Collision Avoidance and Driver Assistance Systems
-========================================================================================================
 
 Artificial intelligence (AI) is rapidly transforming transportation safety, enabling the development of sophisticated collision avoidance and driver assistance systems. These systems use AI algorithms to analyze data from sensors and cameras to identify potential hazards on the road and alert drivers in real-time, helping to prevent accidents and save lives.
 

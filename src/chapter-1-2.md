@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book is to explore the intersection of artificial intelligence (AI) and transportation safety. AI has the potential to revolutionize transportation safety by enabling the development of intelligent systems that can analyze vast amounts of data, identify patterns and correlations, and make predictions that can help to prevent accidents and improve overall safety on the road.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Transportation Safety
-======================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize transportation safety by enabling the development of intelligent systems that can process and analyze vast amounts of data, identify patterns, and make predictions that can help prevent accidents and improve overall safety on the road.
 

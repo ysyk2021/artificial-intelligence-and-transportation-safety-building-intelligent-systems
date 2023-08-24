@@ -1,5 +1,3 @@
-Vehicle-to-Vehicle Communication and Connected Cars
-==========================================================================================================
 
 Advances in artificial intelligence (AI) are revolutionizing transportation safety, enabling the development of sophisticated vehicle-to-vehicle (V2V) communication systems and connected cars. These technologies have the potential to greatly improve road safety by enabling vehicles to communicate with one another and with infrastructure, alerting drivers to potential hazards and avoiding accidents.
 

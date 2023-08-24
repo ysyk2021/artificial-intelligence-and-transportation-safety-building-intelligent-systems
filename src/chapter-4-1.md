@@ -1,5 +1,3 @@
-Benefits of AI in Transportation Safety
-=======================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize transportation safety by enabling the development of more intelligent systems that can reduce the risk of accidents and improve overall safety on the road. In this chapter, we will explore some of the specific benefits of AI in transportation safety.
 

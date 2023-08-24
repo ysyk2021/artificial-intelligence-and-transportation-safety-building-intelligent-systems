@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Transportation Safety
-=========================================================================================================
 
 While the use of artificial intelligence (AI) in transportation safety offers many benefits, there are also a number of challenges and limitations that must be considered. In this chapter, we will explore some of the key challenges and limitations of AI in transportation safety.
 

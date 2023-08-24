@@ -1,4 +1,3 @@
-# Introduction
 
 Transportation safety is a critical issue that affects millions of people every day. According to the World Health Organization, road traffic accidents are one of the leading causes of death and injury worldwide. In recent years, advances in artificial intelligence (AI) have led to the development of intelligent transportation systems that have the potential to significantly improve road safety.
 

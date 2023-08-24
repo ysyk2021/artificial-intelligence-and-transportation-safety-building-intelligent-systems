@@ -1,5 +1,3 @@
-Smart Traffic Management and Infrastructure
-==================================================================================================
 
 One of the most promising applications of artificial intelligence (AI) in transportation safety is the development of systems for smart traffic management and infrastructure. By leveraging the power of AI, transportation agencies can optimize traffic flow, reduce congestion, and improve safety on the roads.
 

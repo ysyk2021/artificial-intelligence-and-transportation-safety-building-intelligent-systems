@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a long and complex history, dating back to the mid-20th century. The term "artificial intelligence" was first coined in 1956 by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon at the Dartmouth Conference.
 

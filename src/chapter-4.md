@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Transportation Safety
-==============================================
 
 Artificial intelligence (AI) has the potential to revolutionize transportation safety by enabling the development of intelligent systems that can analyze vast amounts of data, identify patterns and correlations, and make predictions that can help prevent accidents and improve overall safety on the road. In this chapter, we will explore the role of AI in transportation safety.
 

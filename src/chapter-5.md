@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Transportation Safety Solutions
-=====================================================
 
 Intelligent systems powered by artificial intelligence (AI) have the potential to revolutionize transportation safety. In this chapter, we will explore several AI-powered transportation safety solutions.
 

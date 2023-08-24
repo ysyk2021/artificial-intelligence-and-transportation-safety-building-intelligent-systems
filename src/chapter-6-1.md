@@ -1,5 +1,3 @@
-Ethical Considerations
-==================================================================================================
 
 As artificial intelligence (AI) becomes more integrated into transportation safety systems, it is important to consider the ethical implications of these technologies. From issues related to privacy and data security to questions about the ethical use of autonomous vehicles, there are a number of important considerations that must be addressed in order to ensure that AI in transportation safety is used responsibly and ethically.
 

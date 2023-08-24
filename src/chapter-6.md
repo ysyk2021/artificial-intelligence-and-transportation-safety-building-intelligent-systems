@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Transportation Safety
-==========================================================================
 
 The use of artificial intelligence (AI) in transportation safety has raised several ethical and legal issues that need to be addressed in order to ensure the safe and responsible deployment of these technologies. In this chapter, we will explore some of the ethical and legal considerations related to AI in transportation safety.
 

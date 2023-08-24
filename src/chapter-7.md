@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Transportation Safety
-=================================================
 
 As artificial intelligence (AI) continues to rapidly evolve, there is enormous potential for this technology to revolutionize transportation safety. From improvements in traffic management and infrastructure to the development of fully autonomous vehicles, there are a number of emerging trends and future prospects that hold great promise for the future of AI in transportation safety.
 

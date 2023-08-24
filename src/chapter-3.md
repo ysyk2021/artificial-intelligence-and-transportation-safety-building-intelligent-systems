@@ -1,5 +1,3 @@
-Chapter 3: Transportation Safety Landscape
-==========================================
 
 Transportation safety is a critical issue that affects millions of people around the world. In this chapter, we will explore the transportation safety landscape, including global trends in traffic accidents and fatalities, as well as the key components of transportation safety.
 
