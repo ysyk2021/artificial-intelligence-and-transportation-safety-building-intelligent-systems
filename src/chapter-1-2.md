@@ -1,5 +1,4 @@
-Chapter: Purpose of the Book
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," this chapter elucidates the purpose and objectives of the book. It provides insights into the motivations behind exploring the intersection of artificial intelligence (AI) and transportation safety and the potential benefits it brings to road safety.
 

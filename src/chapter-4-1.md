@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Transportation Safety
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Benefits of AI in Transportation Safety" explores the transformative impact of artificial intelligence (AI) technologies on improving road safety. This chapter delves into the various ways AI can enhance transportation safety, including accident prevention, intelligent traffic management, driver assistance systems, and predictive maintenance.
 

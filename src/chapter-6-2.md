@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Legal Framework" examines the legal considerations and challenges surrounding the use of artificial intelligence (AI) in the transportation industry. This chapter explores the regulatory landscape, ethical concerns, liability issues, and potential legal reforms necessary to ensure the safe and responsible deployment of AI technologies in transportation.
 

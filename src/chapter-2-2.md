@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Types of Artificial Intelligence" explores the various categories and classifications of artificial intelligence (AI). This chapter provides an overview of the different types of AI, including their characteristics, applications, and implications in the context of transportation safety.
 

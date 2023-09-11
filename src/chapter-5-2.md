@@ -1,5 +1,4 @@
-Chapter: Vehicle-to-Vehicle Communication and Connected Cars
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Vehicle-to-Vehicle Communication and Connected Cars" explores the concept of vehicle-to-vehicle (V2V) communication and its role in the development of connected cars. This chapter delves into the technologies, benefits, challenges, and implications of V2V communication in enhancing road safety and shaping the future of transportation.
 

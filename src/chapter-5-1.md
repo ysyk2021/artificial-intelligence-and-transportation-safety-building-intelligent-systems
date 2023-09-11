@@ -1,5 +1,4 @@
-Chapter: Collision Avoidance and Driver Assistance Systems
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," this chapter explores the concept of collision avoidance and driver assistance systems. It provides an overview of the technologies, techniques, and algorithms used in these systems to enhance road safety and reduce the risk of accidents.
 

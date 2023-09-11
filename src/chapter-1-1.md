@@ -1,5 +1,4 @@
-Chapter: Overview of Artificial Intelligence and Transportation Safety
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," this chapter provides an overview of the role of artificial intelligence in enhancing transportation safety. It explores how AI technologies and applications are revolutionizing the transportation industry and paving the way for safer roads.
 

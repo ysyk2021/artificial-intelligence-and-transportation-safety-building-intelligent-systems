@@ -1,5 +1,4 @@
-Chapter: Global Trends in Traffic Accidents and Fatalities
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," this chapter discusses global trends in traffic accidents and fatalities. It provides an overview of the current state of road safety worldwide, highlighting key statistics, factors contributing to accidents, and the imperative for innovative solutions to improve road safety.
 

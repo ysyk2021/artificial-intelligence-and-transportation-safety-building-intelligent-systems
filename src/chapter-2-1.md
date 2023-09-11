@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "History of Artificial Intelligence" explores the evolution and milestones in the field of artificial intelligence (AI). This chapter takes a journey through the significant developments, key contributors, and influential breakthroughs that have shaped AI into the transformative discipline it is today.
 

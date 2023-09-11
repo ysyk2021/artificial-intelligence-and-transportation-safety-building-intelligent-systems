@@ -1,5 +1,4 @@
-Chapter: Components of Transportation Safety
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," this chapter focuses on the essential components of transportation safety. It examines the various factors that contribute to safe transportation systems and the role of artificial intelligence in enhancing them.
 

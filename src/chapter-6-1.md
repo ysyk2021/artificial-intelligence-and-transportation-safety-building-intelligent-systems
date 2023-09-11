@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Ethical Considerations" explores the ethical implications that arise in the context of artificial intelligence (AI) technologies in transportation. This chapter delves into the key ethical considerations that need to be addressed for the responsible and equitable deployment of AI in improving road safety.
 

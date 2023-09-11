@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Transportation Safety
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Transportation Safety: Building Intelligent Systems that Improve Road Safety," the chapter "Challenges and Limitations of AI in Transportation Safety" examines the various obstacles and constraints associated with the application of artificial intelligence (AI) in enhancing road safety. This chapter explores the challenges and limitations that need to be considered for the effective implementation and optimization of AI technologies in transportation safety.
 
